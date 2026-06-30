@@ -1,13 +1,27 @@
+"""
+generate_healthcare_data.py
+
+Generates synthetic healthcare data for the Hospital Patient & Operations
+Analytics Platform project. Produces 4 CSV files:
+  - patients.csv
+  - doctors.csv
+  - admissions.csv
+  - diagnoses.csv
+
+Requires: pip install faker
+"""
+
 import csv
 import random
 from faker import Faker
-from datetime import datetime, timedelta
+from datetime import timedelta
 
 fake = Faker()
 random.seed(42)
 
 # ── 1. DOCTORS ──────────────────────────────────────────────
-departments = ['Cardiology', 'Neurology', 'Orthopedics', 'Oncology', 'Pediatrics', 'Emergency', 'General Medicine']
+departments = ['Cardiology', 'Neurology', 'Orthopedics', 'Oncology',
+               'Pediatrics', 'Emergency', 'General Medicine']
 
 doctors = []
 for i in range(1, 21):
@@ -88,7 +102,6 @@ icd_codes = {
     'M54': 'Back Pain',
     'F32': 'Depression'
 }
-
 icd_list = list(icd_codes.items())
 
 diagnoses = []
@@ -108,6 +121,4 @@ with open('diagnoses.csv', 'w', newline='') as f:
     writer.writerows(diagnoses)
 
 print("✅ diagnoses.csv created")
-
 print("\n🎉 All 4 CSV files generated successfully!")
-print("Files: patients.csv, admissions.csv, diagnoses.csv, doctors.csv")

@@ -1,0 +1,19 @@
+# Data files (synthetic, regeneratable — don't commit raw data)
+data/*.csv
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Secrets — NEVER commit these
+*.env
+secrets.json
+*.pem
+
+# Databricks
+.databricks/
+
+# OS
+.DS_Store
+Thumbs.db
