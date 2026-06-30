@@ -1,0 +1,501 @@
+diagnosis_id,admission_id,icd_code,diagnosis_description,severity
+DG00001,A00258,J18,Pneumonia,Severe
+DG00002,A00092,I21,Acute Myocardial Infarction,Mild
+DG00003,A00024,M54,Back Pain,Moderate
+DG00004,A00450,J18,Pneumonia,Moderate
+DG00005,A00397,K80,Gallstones,Moderate
+DG00006,A00045,N18,Chronic Kidney Disease,Severe
+DG00007,A00005,G35,Multiple Sclerosis,Moderate
+DG00008,A00150,I10,Hypertension,Severe
+DG00009,A00379,K80,Gallstones,Severe
+DG00010,A00238,I10,Hypertension,Moderate
+DG00011,A00498,F32,Depression,Moderate
+DG00012,A00376,I10,Hypertension,Severe
+DG00013,A00078,I10,Hypertension,Mild
+DG00014,A00013,C34,Lung Cancer,Mild
+DG00015,A00178,M54,Back Pain,Severe
+DG00016,A00487,I21,Acute Myocardial Infarction,Moderate
+DG00017,A00389,I21,Acute Myocardial Infarction,Severe
+DG00018,A00435,C34,Lung Cancer,Severe
+DG00019,A00054,K80,Gallstones,Mild
+DG00020,A00122,M54,Back Pain,Moderate
+DG00021,A00493,G35,Multiple Sclerosis,Mild
+DG00022,A00365,E11,Type 2 Diabetes,Moderate
+DG00023,A00023,J18,Pneumonia,Mild
+DG00024,A00212,M54,Back Pain,Severe
+DG00025,A00235,N18,Chronic Kidney Disease,Severe
+DG00026,A00298,J18,Pneumonia,Mild
+DG00027,A00069,M54,Back Pain,Severe
+DG00028,A00039,C34,Lung Cancer,Severe
+DG00029,A00032,F32,Depression,Moderate
+DG00030,A00122,E11,Type 2 Diabetes,Moderate
+DG00031,A00436,K80,Gallstones,Moderate
+DG00032,A00359,C34,Lung Cancer,Severe
+DG00033,A00163,N18,Chronic Kidney Disease,Moderate
+DG00034,A00120,K80,Gallstones,Mild
+DG00035,A00070,I10,Hypertension,Severe
+DG00036,A00080,J18,Pneumonia,Mild
+DG00037,A00231,E11,Type 2 Diabetes,Moderate
+DG00038,A00209,N18,Chronic Kidney Disease,Mild
+DG00039,A00184,M54,Back Pain,Mild
+DG00040,A00158,G35,Multiple Sclerosis,Moderate
+DG00041,A00437,K80,Gallstones,Mild
+DG00042,A00081,J18,Pneumonia,Severe
+DG00043,A00424,K80,Gallstones,Severe
+DG00044,A00021,F32,Depression,Mild
+DG00045,A00076,N18,Chronic Kidney Disease,Mild
+DG00046,A00496,I10,Hypertension,Moderate
+DG00047,A00263,C34,Lung Cancer,Mild
+DG00048,A00134,K80,Gallstones,Mild
+DG00049,A00488,I21,Acute Myocardial Infarction,Moderate
+DG00050,A00285,G35,Multiple Sclerosis,Severe
+DG00051,A00128,M54,Back Pain,Mild
+DG00052,A00053,G35,Multiple Sclerosis,Mild
+DG00053,A00007,J18,Pneumonia,Mild
+DG00054,A00067,I10,Hypertension,Mild
+DG00055,A00191,C34,Lung Cancer,Severe
+DG00056,A00299,J18,Pneumonia,Severe
+DG00057,A00470,K80,Gallstones,Mild
+DG00058,A00034,I21,Acute Myocardial Infarction,Mild
+DG00059,A00415,G35,Multiple Sclerosis,Mild
+DG00060,A00464,J18,Pneumonia,Moderate
+DG00061,A00022,J18,Pneumonia,Moderate
+DG00062,A00087,I21,Acute Myocardial Infarction,Severe
+DG00063,A00421,C34,Lung Cancer,Severe
+DG00064,A00255,C34,Lung Cancer,Mild
+DG00065,A00350,C34,Lung Cancer,Moderate
+DG00066,A00182,E11,Type 2 Diabetes,Mild
+DG00067,A00141,E11,Type 2 Diabetes,Moderate
+DG00068,A00453,G35,Multiple Sclerosis,Mild
+DG00069,A00315,I21,Acute Myocardial Infarction,Severe
+DG00070,A00126,F32,Depression,Severe
+DG00071,A00256,K80,Gallstones,Moderate
+DG00072,A00246,M54,Back Pain,Mild
+DG00073,A00144,J18,Pneumonia,Moderate
+DG00074,A00215,E11,Type 2 Diabetes,Mild
+DG00075,A00128,M54,Back Pain,Severe
+DG00076,A00407,M54,Back Pain,Mild
+DG00077,A00401,C34,Lung Cancer,Severe
+DG00078,A00246,N18,Chronic Kidney Disease,Severe
+DG00079,A00177,G35,Multiple Sclerosis,Severe
+DG00080,A00165,M54,Back Pain,Moderate
+DG00081,A00093,K80,Gallstones,Mild
+DG00082,A00306,N18,Chronic Kidney Disease,Mild
+DG00083,A00459,I21,Acute Myocardial Infarction,Moderate
+DG00084,A00415,I21,Acute Myocardial Infarction,Moderate
+DG00085,A00184,M54,Back Pain,Severe
+DG00086,A00499,I10,Hypertension,Mild
+DG00087,A00127,J18,Pneumonia,Severe
+DG00088,A00137,I10,Hypertension,Severe
+DG00089,A00392,I21,Acute Myocardial Infarction,Mild
+DG00090,A00434,F32,Depression,Moderate
+DG00091,A00479,N18,Chronic Kidney Disease,Mild
+DG00092,A00122,E11,Type 2 Diabetes,Severe
+DG00093,A00413,N18,Chronic Kidney Disease,Severe
+DG00094,A00468,N18,Chronic Kidney Disease,Severe
+DG00095,A00361,I21,Acute Myocardial Infarction,Severe
+DG00096,A00486,N18,Chronic Kidney Disease,Severe
+DG00097,A00073,F32,Depression,Severe
+DG00098,A00429,I10,Hypertension,Moderate
+DG00099,A00159,M54,Back Pain,Mild
+DG00100,A00020,G35,Multiple Sclerosis,Mild
+DG00101,A00120,I21,Acute Myocardial Infarction,Severe
+DG00102,A00011,I10,Hypertension,Severe
+DG00103,A00001,G35,Multiple Sclerosis,Moderate
+DG00104,A00104,F32,Depression,Mild
+DG00105,A00368,N18,Chronic Kidney Disease,Mild
+DG00106,A00031,N18,Chronic Kidney Disease,Mild
+DG00107,A00301,E11,Type 2 Diabetes,Severe
+DG00108,A00397,E11,Type 2 Diabetes,Mild
+DG00109,A00441,M54,Back Pain,Moderate
+DG00110,A00192,J18,Pneumonia,Severe
+DG00111,A00301,C34,Lung Cancer,Mild
+DG00112,A00155,N18,Chronic Kidney Disease,Moderate
+DG00113,A00500,E11,Type 2 Diabetes,Mild
+DG00114,A00406,C34,Lung Cancer,Severe
+DG00115,A00333,G35,Multiple Sclerosis,Moderate
+DG00116,A00363,E11,Type 2 Diabetes,Severe
+DG00117,A00403,F32,Depression,Moderate
+DG00118,A00341,I10,Hypertension,Severe
+DG00119,A00194,E11,Type 2 Diabetes,Moderate
+DG00120,A00066,K80,Gallstones,Mild
+DG00121,A00486,I21,Acute Myocardial Infarction,Severe
+DG00122,A00201,F32,Depression,Severe
+DG00123,A00094,I21,Acute Myocardial Infarction,Severe
+DG00124,A00472,N18,Chronic Kidney Disease,Severe
+DG00125,A00328,I10,Hypertension,Severe
+DG00126,A00480,J18,Pneumonia,Moderate
+DG00127,A00170,E11,Type 2 Diabetes,Severe
+DG00128,A00122,J18,Pneumonia,Moderate
+DG00129,A00086,N18,Chronic Kidney Disease,Severe
+DG00130,A00421,J18,Pneumonia,Severe
+DG00131,A00229,N18,Chronic Kidney Disease,Mild
+DG00132,A00108,K80,Gallstones,Mild
+DG00133,A00180,J18,Pneumonia,Moderate
+DG00134,A00369,J18,Pneumonia,Mild
+DG00135,A00198,I21,Acute Myocardial Infarction,Moderate
+DG00136,A00497,C34,Lung Cancer,Mild
+DG00137,A00253,C34,Lung Cancer,Moderate
+DG00138,A00280,N18,Chronic Kidney Disease,Moderate
+DG00139,A00425,J18,Pneumonia,Moderate
+DG00140,A00334,F32,Depression,Severe
+DG00141,A00084,I10,Hypertension,Moderate
+DG00142,A00410,J18,Pneumonia,Mild
+DG00143,A00011,K80,Gallstones,Moderate
+DG00144,A00488,K80,Gallstones,Mild
+DG00145,A00176,J18,Pneumonia,Mild
+DG00146,A00083,C34,Lung Cancer,Severe
+DG00147,A00281,J18,Pneumonia,Mild
+DG00148,A00305,N18,Chronic Kidney Disease,Severe
+DG00149,A00361,G35,Multiple Sclerosis,Mild
+DG00150,A00483,C34,Lung Cancer,Severe
+DG00151,A00311,E11,Type 2 Diabetes,Moderate
+DG00152,A00028,E11,Type 2 Diabetes,Mild
+DG00153,A00106,N18,Chronic Kidney Disease,Mild
+DG00154,A00357,C34,Lung Cancer,Severe
+DG00155,A00136,M54,Back Pain,Severe
+DG00156,A00153,K80,Gallstones,Mild
+DG00157,A00026,J18,Pneumonia,Moderate
+DG00158,A00282,F32,Depression,Moderate
+DG00159,A00028,E11,Type 2 Diabetes,Moderate
+DG00160,A00219,I21,Acute Myocardial Infarction,Mild
+DG00161,A00422,K80,Gallstones,Severe
+DG00162,A00246,F32,Depression,Mild
+DG00163,A00014,J18,Pneumonia,Mild
+DG00164,A00327,E11,Type 2 Diabetes,Moderate
+DG00165,A00243,J18,Pneumonia,Mild
+DG00166,A00402,K80,Gallstones,Moderate
+DG00167,A00251,G35,Multiple Sclerosis,Severe
+DG00168,A00047,K80,Gallstones,Severe
+DG00169,A00199,M54,Back Pain,Mild
+DG00170,A00454,N18,Chronic Kidney Disease,Moderate
+DG00171,A00096,N18,Chronic Kidney Disease,Moderate
+DG00172,A00135,I21,Acute Myocardial Infarction,Moderate
+DG00173,A00135,G35,Multiple Sclerosis,Mild
+DG00174,A00289,K80,Gallstones,Mild
+DG00175,A00386,E11,Type 2 Diabetes,Severe
+DG00176,A00044,J18,Pneumonia,Severe
+DG00177,A00414,N18,Chronic Kidney Disease,Severe
+DG00178,A00498,C34,Lung Cancer,Severe
+DG00179,A00284,I10,Hypertension,Mild
+DG00180,A00420,C34,Lung Cancer,Severe
+DG00181,A00495,C34,Lung Cancer,Severe
+DG00182,A00294,G35,Multiple Sclerosis,Mild
+DG00183,A00154,G35,Multiple Sclerosis,Mild
+DG00184,A00463,C34,Lung Cancer,Severe
+DG00185,A00258,I21,Acute Myocardial Infarction,Severe
+DG00186,A00410,M54,Back Pain,Severe
+DG00187,A00076,F32,Depression,Mild
+DG00188,A00089,G35,Multiple Sclerosis,Mild
+DG00189,A00414,I10,Hypertension,Mild
+DG00190,A00022,E11,Type 2 Diabetes,Moderate
+DG00191,A00350,J18,Pneumonia,Moderate
+DG00192,A00422,I10,Hypertension,Severe
+DG00193,A00428,E11,Type 2 Diabetes,Severe
+DG00194,A00164,K80,Gallstones,Severe
+DG00195,A00045,J18,Pneumonia,Moderate
+DG00196,A00204,M54,Back Pain,Severe
+DG00197,A00439,N18,Chronic Kidney Disease,Moderate
+DG00198,A00235,M54,Back Pain,Mild
+DG00199,A00301,F32,Depression,Severe
+DG00200,A00058,C34,Lung Cancer,Moderate
+DG00201,A00076,E11,Type 2 Diabetes,Severe
+DG00202,A00299,F32,Depression,Mild
+DG00203,A00289,J18,Pneumonia,Mild
+DG00204,A00445,K80,Gallstones,Severe
+DG00205,A00450,N18,Chronic Kidney Disease,Moderate
+DG00206,A00197,K80,Gallstones,Severe
+DG00207,A00293,G35,Multiple Sclerosis,Severe
+DG00208,A00020,G35,Multiple Sclerosis,Mild
+DG00209,A00207,K80,Gallstones,Mild
+DG00210,A00312,F32,Depression,Severe
+DG00211,A00020,C34,Lung Cancer,Moderate
+DG00212,A00354,N18,Chronic Kidney Disease,Mild
+DG00213,A00382,I21,Acute Myocardial Infarction,Moderate
+DG00214,A00460,K80,Gallstones,Moderate
+DG00215,A00173,I21,Acute Myocardial Infarction,Moderate
+DG00216,A00144,K80,Gallstones,Moderate
+DG00217,A00498,J18,Pneumonia,Mild
+DG00218,A00154,E11,Type 2 Diabetes,Severe
+DG00219,A00397,G35,Multiple Sclerosis,Moderate
+DG00220,A00374,K80,Gallstones,Moderate
+DG00221,A00331,F32,Depression,Mild
+DG00222,A00227,I10,Hypertension,Mild
+DG00223,A00380,C34,Lung Cancer,Moderate
+DG00224,A00445,M54,Back Pain,Moderate
+DG00225,A00264,I21,Acute Myocardial Infarction,Mild
+DG00226,A00160,J18,Pneumonia,Severe
+DG00227,A00207,M54,Back Pain,Mild
+DG00228,A00451,M54,Back Pain,Severe
+DG00229,A00089,I21,Acute Myocardial Infarction,Mild
+DG00230,A00429,I10,Hypertension,Mild
+DG00231,A00017,I10,Hypertension,Moderate
+DG00232,A00471,I21,Acute Myocardial Infarction,Moderate
+DG00233,A00141,I10,Hypertension,Moderate
+DG00234,A00259,G35,Multiple Sclerosis,Moderate
+DG00235,A00349,J18,Pneumonia,Mild
+DG00236,A00191,I10,Hypertension,Moderate
+DG00237,A00229,F32,Depression,Mild
+DG00238,A00301,G35,Multiple Sclerosis,Severe
+DG00239,A00177,N18,Chronic Kidney Disease,Mild
+DG00240,A00384,K80,Gallstones,Severe
+DG00241,A00146,J18,Pneumonia,Mild
+DG00242,A00026,C34,Lung Cancer,Mild
+DG00243,A00400,F32,Depression,Mild
+DG00244,A00332,I10,Hypertension,Mild
+DG00245,A00138,I10,Hypertension,Severe
+DG00246,A00263,C34,Lung Cancer,Mild
+DG00247,A00243,I21,Acute Myocardial Infarction,Mild
+DG00248,A00308,E11,Type 2 Diabetes,Mild
+DG00249,A00130,I10,Hypertension,Severe
+DG00250,A00365,K80,Gallstones,Severe
+DG00251,A00217,K80,Gallstones,Moderate
+DG00252,A00236,N18,Chronic Kidney Disease,Moderate
+DG00253,A00239,I10,Hypertension,Moderate
+DG00254,A00423,M54,Back Pain,Severe
+DG00255,A00300,C34,Lung Cancer,Mild
+DG00256,A00262,I21,Acute Myocardial Infarction,Severe
+DG00257,A00288,N18,Chronic Kidney Disease,Severe
+DG00258,A00312,F32,Depression,Moderate
+DG00259,A00351,K80,Gallstones,Mild
+DG00260,A00033,G35,Multiple Sclerosis,Moderate
+DG00261,A00328,K80,Gallstones,Moderate
+DG00262,A00134,K80,Gallstones,Severe
+DG00263,A00097,K80,Gallstones,Mild
+DG00264,A00392,M54,Back Pain,Mild
+DG00265,A00413,I21,Acute Myocardial Infarction,Severe
+DG00266,A00339,C34,Lung Cancer,Moderate
+DG00267,A00370,E11,Type 2 Diabetes,Mild
+DG00268,A00152,G35,Multiple Sclerosis,Moderate
+DG00269,A00208,C34,Lung Cancer,Moderate
+DG00270,A00299,I21,Acute Myocardial Infarction,Severe
+DG00271,A00418,F32,Depression,Mild
+DG00272,A00372,N18,Chronic Kidney Disease,Severe
+DG00273,A00352,I10,Hypertension,Severe
+DG00274,A00465,G35,Multiple Sclerosis,Severe
+DG00275,A00260,N18,Chronic Kidney Disease,Moderate
+DG00276,A00431,E11,Type 2 Diabetes,Severe
+DG00277,A00093,M54,Back Pain,Moderate
+DG00278,A00242,J18,Pneumonia,Mild
+DG00279,A00372,K80,Gallstones,Severe
+DG00280,A00485,E11,Type 2 Diabetes,Severe
+DG00281,A00336,N18,Chronic Kidney Disease,Mild
+DG00282,A00182,I10,Hypertension,Mild
+DG00283,A00216,K80,Gallstones,Moderate
+DG00284,A00134,N18,Chronic Kidney Disease,Severe
+DG00285,A00238,K80,Gallstones,Mild
+DG00286,A00028,G35,Multiple Sclerosis,Severe
+DG00287,A00298,F32,Depression,Severe
+DG00288,A00242,J18,Pneumonia,Mild
+DG00289,A00062,M54,Back Pain,Severe
+DG00290,A00272,C34,Lung Cancer,Moderate
+DG00291,A00028,C34,Lung Cancer,Mild
+DG00292,A00103,E11,Type 2 Diabetes,Moderate
+DG00293,A00292,C34,Lung Cancer,Moderate
+DG00294,A00162,E11,Type 2 Diabetes,Severe
+DG00295,A00399,E11,Type 2 Diabetes,Mild
+DG00296,A00171,G35,Multiple Sclerosis,Severe
+DG00297,A00161,E11,Type 2 Diabetes,Severe
+DG00298,A00003,I21,Acute Myocardial Infarction,Moderate
+DG00299,A00108,K80,Gallstones,Mild
+DG00300,A00392,F32,Depression,Mild
+DG00301,A00403,G35,Multiple Sclerosis,Mild
+DG00302,A00315,E11,Type 2 Diabetes,Moderate
+DG00303,A00207,C34,Lung Cancer,Moderate
+DG00304,A00197,G35,Multiple Sclerosis,Mild
+DG00305,A00274,I21,Acute Myocardial Infarction,Mild
+DG00306,A00487,N18,Chronic Kidney Disease,Mild
+DG00307,A00388,N18,Chronic Kidney Disease,Severe
+DG00308,A00010,I10,Hypertension,Severe
+DG00309,A00321,I21,Acute Myocardial Infarction,Severe
+DG00310,A00116,I10,Hypertension,Severe
+DG00311,A00160,N18,Chronic Kidney Disease,Mild
+DG00312,A00197,J18,Pneumonia,Severe
+DG00313,A00157,F32,Depression,Mild
+DG00314,A00422,J18,Pneumonia,Mild
+DG00315,A00486,K80,Gallstones,Moderate
+DG00316,A00373,G35,Multiple Sclerosis,Severe
+DG00317,A00269,F32,Depression,Moderate
+DG00318,A00455,C34,Lung Cancer,Severe
+DG00319,A00176,E11,Type 2 Diabetes,Moderate
+DG00320,A00385,N18,Chronic Kidney Disease,Mild
+DG00321,A00486,E11,Type 2 Diabetes,Moderate
+DG00322,A00117,I21,Acute Myocardial Infarction,Mild
+DG00323,A00109,E11,Type 2 Diabetes,Severe
+DG00324,A00302,I21,Acute Myocardial Infarction,Severe
+DG00325,A00064,E11,Type 2 Diabetes,Moderate
+DG00326,A00193,I21,Acute Myocardial Infarction,Severe
+DG00327,A00395,K80,Gallstones,Severe
+DG00328,A00025,F32,Depression,Severe
+DG00329,A00339,I21,Acute Myocardial Infarction,Mild
+DG00330,A00025,I21,Acute Myocardial Infarction,Severe
+DG00331,A00214,J18,Pneumonia,Moderate
+DG00332,A00064,C34,Lung Cancer,Severe
+DG00333,A00243,K80,Gallstones,Severe
+DG00334,A00106,E11,Type 2 Diabetes,Severe
+DG00335,A00155,I21,Acute Myocardial Infarction,Moderate
+DG00336,A00340,J18,Pneumonia,Severe
+DG00337,A00319,K80,Gallstones,Severe
+DG00338,A00215,E11,Type 2 Diabetes,Mild
+DG00339,A00369,M54,Back Pain,Severe
+DG00340,A00145,J18,Pneumonia,Mild
+DG00341,A00255,J18,Pneumonia,Mild
+DG00342,A00103,F32,Depression,Moderate
+DG00343,A00499,M54,Back Pain,Mild
+DG00344,A00361,N18,Chronic Kidney Disease,Moderate
+DG00345,A00083,K80,Gallstones,Mild
+DG00346,A00255,M54,Back Pain,Mild
+DG00347,A00170,G35,Multiple Sclerosis,Mild
+DG00348,A00007,I21,Acute Myocardial Infarction,Severe
+DG00349,A00465,J18,Pneumonia,Mild
+DG00350,A00343,F32,Depression,Moderate
+DG00351,A00487,E11,Type 2 Diabetes,Mild
+DG00352,A00039,M54,Back Pain,Severe
+DG00353,A00464,J18,Pneumonia,Moderate
+DG00354,A00234,I10,Hypertension,Moderate
+DG00355,A00238,K80,Gallstones,Mild
+DG00356,A00417,J18,Pneumonia,Mild
+DG00357,A00437,I21,Acute Myocardial Infarction,Moderate
+DG00358,A00411,N18,Chronic Kidney Disease,Severe
+DG00359,A00219,N18,Chronic Kidney Disease,Severe
+DG00360,A00049,J18,Pneumonia,Mild
+DG00361,A00437,I21,Acute Myocardial Infarction,Mild
+DG00362,A00169,E11,Type 2 Diabetes,Moderate
+DG00363,A00490,G35,Multiple Sclerosis,Severe
+DG00364,A00450,K80,Gallstones,Severe
+DG00365,A00191,J18,Pneumonia,Moderate
+DG00366,A00059,E11,Type 2 Diabetes,Moderate
+DG00367,A00493,C34,Lung Cancer,Moderate
+DG00368,A00428,K80,Gallstones,Moderate
+DG00369,A00410,G35,Multiple Sclerosis,Moderate
+DG00370,A00058,E11,Type 2 Diabetes,Mild
+DG00371,A00483,I21,Acute Myocardial Infarction,Mild
+DG00372,A00214,J18,Pneumonia,Severe
+DG00373,A00411,G35,Multiple Sclerosis,Severe
+DG00374,A00093,G35,Multiple Sclerosis,Severe
+DG00375,A00399,C34,Lung Cancer,Moderate
+DG00376,A00015,F32,Depression,Severe
+DG00377,A00248,E11,Type 2 Diabetes,Moderate
+DG00378,A00455,J18,Pneumonia,Moderate
+DG00379,A00024,G35,Multiple Sclerosis,Mild
+DG00380,A00336,K80,Gallstones,Moderate
+DG00381,A00361,I21,Acute Myocardial Infarction,Severe
+DG00382,A00393,M54,Back Pain,Severe
+DG00383,A00371,F32,Depression,Severe
+DG00384,A00490,I10,Hypertension,Severe
+DG00385,A00266,N18,Chronic Kidney Disease,Severe
+DG00386,A00049,F32,Depression,Moderate
+DG00387,A00247,I10,Hypertension,Moderate
+DG00388,A00077,C34,Lung Cancer,Severe
+DG00389,A00028,F32,Depression,Mild
+DG00390,A00259,E11,Type 2 Diabetes,Moderate
+DG00391,A00446,G35,Multiple Sclerosis,Mild
+DG00392,A00385,J18,Pneumonia,Moderate
+DG00393,A00124,N18,Chronic Kidney Disease,Moderate
+DG00394,A00026,K80,Gallstones,Severe
+DG00395,A00282,I10,Hypertension,Severe
+DG00396,A00207,C34,Lung Cancer,Mild
+DG00397,A00236,J18,Pneumonia,Moderate
+DG00398,A00230,F32,Depression,Mild
+DG00399,A00229,G35,Multiple Sclerosis,Moderate
+DG00400,A00255,J18,Pneumonia,Severe
+DG00401,A00053,I21,Acute Myocardial Infarction,Moderate
+DG00402,A00019,C34,Lung Cancer,Severe
+DG00403,A00001,M54,Back Pain,Mild
+DG00404,A00494,F32,Depression,Severe
+DG00405,A00456,K80,Gallstones,Severe
+DG00406,A00106,M54,Back Pain,Severe
+DG00407,A00487,G35,Multiple Sclerosis,Moderate
+DG00408,A00423,N18,Chronic Kidney Disease,Mild
+DG00409,A00433,I10,Hypertension,Moderate
+DG00410,A00287,N18,Chronic Kidney Disease,Severe
+DG00411,A00243,F32,Depression,Severe
+DG00412,A00367,N18,Chronic Kidney Disease,Moderate
+DG00413,A00050,J18,Pneumonia,Severe
+DG00414,A00002,I10,Hypertension,Moderate
+DG00415,A00425,N18,Chronic Kidney Disease,Severe
+DG00416,A00281,K80,Gallstones,Severe
+DG00417,A00360,N18,Chronic Kidney Disease,Mild
+DG00418,A00460,I21,Acute Myocardial Infarction,Mild
+DG00419,A00072,G35,Multiple Sclerosis,Severe
+DG00420,A00055,C34,Lung Cancer,Moderate
+DG00421,A00101,F32,Depression,Mild
+DG00422,A00477,J18,Pneumonia,Moderate
+DG00423,A00235,I10,Hypertension,Mild
+DG00424,A00056,N18,Chronic Kidney Disease,Moderate
+DG00425,A00475,I21,Acute Myocardial Infarction,Severe
+DG00426,A00064,F32,Depression,Moderate
+DG00427,A00338,G35,Multiple Sclerosis,Severe
+DG00428,A00069,M54,Back Pain,Moderate
+DG00429,A00272,I21,Acute Myocardial Infarction,Severe
+DG00430,A00284,I21,Acute Myocardial Infarction,Moderate
+DG00431,A00248,F32,Depression,Severe
+DG00432,A00355,E11,Type 2 Diabetes,Severe
+DG00433,A00375,E11,Type 2 Diabetes,Mild
+DG00434,A00199,J18,Pneumonia,Severe
+DG00435,A00311,F32,Depression,Moderate
+DG00436,A00452,M54,Back Pain,Moderate
+DG00437,A00312,C34,Lung Cancer,Severe
+DG00438,A00141,I10,Hypertension,Moderate
+DG00439,A00497,N18,Chronic Kidney Disease,Moderate
+DG00440,A00413,G35,Multiple Sclerosis,Mild
+DG00441,A00212,E11,Type 2 Diabetes,Severe
+DG00442,A00154,M54,Back Pain,Severe
+DG00443,A00441,M54,Back Pain,Moderate
+DG00444,A00324,M54,Back Pain,Mild
+DG00445,A00108,I10,Hypertension,Severe
+DG00446,A00352,K80,Gallstones,Moderate
+DG00447,A00364,E11,Type 2 Diabetes,Severe
+DG00448,A00258,E11,Type 2 Diabetes,Severe
+DG00449,A00364,N18,Chronic Kidney Disease,Mild
+DG00450,A00288,N18,Chronic Kidney Disease,Moderate
+DG00451,A00293,F32,Depression,Severe
+DG00452,A00346,C34,Lung Cancer,Severe
+DG00453,A00147,M54,Back Pain,Moderate
+DG00454,A00268,I21,Acute Myocardial Infarction,Mild
+DG00455,A00196,I21,Acute Myocardial Infarction,Mild
+DG00456,A00344,I21,Acute Myocardial Infarction,Mild
+DG00457,A00137,I10,Hypertension,Mild
+DG00458,A00350,K80,Gallstones,Moderate
+DG00459,A00430,E11,Type 2 Diabetes,Mild
+DG00460,A00105,K80,Gallstones,Severe
+DG00461,A00184,I21,Acute Myocardial Infarction,Moderate
+DG00462,A00316,J18,Pneumonia,Severe
+DG00463,A00443,M54,Back Pain,Mild
+DG00464,A00200,M54,Back Pain,Mild
+DG00465,A00402,M54,Back Pain,Severe
+DG00466,A00355,K80,Gallstones,Severe
+DG00467,A00475,I21,Acute Myocardial Infarction,Moderate
+DG00468,A00214,C34,Lung Cancer,Severe
+DG00469,A00495,N18,Chronic Kidney Disease,Severe
+DG00470,A00007,I21,Acute Myocardial Infarction,Severe
+DG00471,A00104,K80,Gallstones,Severe
+DG00472,A00425,G35,Multiple Sclerosis,Mild
+DG00473,A00387,N18,Chronic Kidney Disease,Severe
+DG00474,A00379,M54,Back Pain,Severe
+DG00475,A00398,I10,Hypertension,Severe
+DG00476,A00151,I10,Hypertension,Moderate
+DG00477,A00350,E11,Type 2 Diabetes,Mild
+DG00478,A00493,E11,Type 2 Diabetes,Mild
+DG00479,A00062,M54,Back Pain,Moderate
+DG00480,A00220,I21,Acute Myocardial Infarction,Moderate
+DG00481,A00136,M54,Back Pain,Mild
+DG00482,A00300,E11,Type 2 Diabetes,Moderate
+DG00483,A00170,I21,Acute Myocardial Infarction,Moderate
+DG00484,A00021,E11,Type 2 Diabetes,Mild
+DG00485,A00306,N18,Chronic Kidney Disease,Mild
+DG00486,A00432,F32,Depression,Severe
+DG00487,A00252,K80,Gallstones,Severe
+DG00488,A00184,M54,Back Pain,Mild
+DG00489,A00270,N18,Chronic Kidney Disease,Mild
+DG00490,A00267,E11,Type 2 Diabetes,Mild
+DG00491,A00082,M54,Back Pain,Moderate
+DG00492,A00275,M54,Back Pain,Moderate
+DG00493,A00179,J18,Pneumonia,Mild
+DG00494,A00340,I10,Hypertension,Moderate
+DG00495,A00185,N18,Chronic Kidney Disease,Moderate
+DG00496,A00487,I10,Hypertension,Severe
+DG00497,A00244,M54,Back Pain,Severe
+DG00498,A00059,I21,Acute Myocardial Infarction,Severe
+DG00499,A00229,N18,Chronic Kidney Disease,Mild
+DG00500,A00471,F32,Depression,Severe
